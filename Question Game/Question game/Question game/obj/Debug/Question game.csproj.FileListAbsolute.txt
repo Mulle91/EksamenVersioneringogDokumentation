@@ -1,0 +1,7 @@
+C:\Programmering\Question Game\Question game\Question game\obj\Debug\Question game.csprojResolveAssemblyReference.cache
+C:\Programmering\Question Game\Question game\Question game\obj\Debug\Question game.csproj.CoreCompileInputs.cache
+C:\Programmering\Question Game\Question game\Question game\bin\Debug\Question game.exe.config
+C:\Programmering\Question Game\Question game\Question game\bin\Debug\Question game.exe
+C:\Programmering\Question Game\Question game\Question game\bin\Debug\Question game.pdb
+C:\Programmering\Question Game\Question game\Question game\obj\Debug\Question game.exe
+C:\Programmering\Question Game\Question game\Question game\obj\Debug\Question game.pdb

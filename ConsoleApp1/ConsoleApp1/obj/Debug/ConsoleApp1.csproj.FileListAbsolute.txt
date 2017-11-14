@@ -1,0 +1,14 @@
+C:\Programmering\Question Game\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Programmering\Question Game\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Programmering\Question Game\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Programmering\Question Game\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+C:\Programmering\Question Game\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Programmering\Question Game\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Programmering\Question Game\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Morten\Desktop\Question Game\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Morten\Desktop\Question Game\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Morten\Desktop\Question Game\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Morten\Desktop\Question Game\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+C:\Users\Morten\Desktop\Question Game\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Morten\Desktop\Question Game\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Morten\Desktop\Question Game\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
